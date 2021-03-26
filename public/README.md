@@ -22,15 +22,32 @@ For today's lab assignment, you will work independently to create a personal por
 For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
 ```
-Number and name of feature: ________________________________
+Number and name of feature: one .
+Estimate of time needed to complete: 1 hour
+Start time: 6:00 PM
 
-Estimate of time needed to complete: _____
+Finish time: 7:00 PM
+Actual time needed to complete: 1 hour
 
-Start time: _____
+```
+Number and name of feature: Two 
 
-Finish time: _____
+Estimate of time needed to complete: 1 hour
 
-Actual time needed to complete: _____
+Start time: 7:00 PM
+
+Finish time: 8:00 PM
+
+Actual time needed to complete: 1 hour 
+```
+Number and name of feature: Three
+Estimate of time needed to complete: 1 hour
+
+Start time: 8:00 PM
+
+Finish time: 9:00 PM
+
+Actual time needed to complete: 1 hour 
 ```
 
 Add this information to your README.
